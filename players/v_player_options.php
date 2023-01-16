@@ -3,6 +3,7 @@ defaultOptions.controls = [
     'play-large',
     'play',
     'fast-forward',
+    'rewind-backskip',
     'progress',
     'current-time',
     'duration',
